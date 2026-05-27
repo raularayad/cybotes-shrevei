@@ -1,4 +1,4 @@
-Scripts to functionally annotate SNPs obtained from 3RAD data. 
+Scripts to functionally annotate SNPs obtained from 3RAD data from _Anolis cybotes_ and _Anolis shrevei_. 
 
 # Input files:
 1. Genome assembly .fasta file (genome.fa)
